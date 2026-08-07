@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Archak Banerjee</h1>
+<h1 align="center">... I'm Archak Banerjee</h1>
 <h3 align="center">A passionate developer turning ideas into code.</h3>
 
 <p align="center">
