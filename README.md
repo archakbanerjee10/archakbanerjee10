@@ -52,4 +52,6 @@
 ---
 
 ### 📬 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/archak-banerjee-bb4482329/
+-  LinkedIn: https://www.linkedin.com/in/archak-banerjee-bb4482329/
+-  Leetcode: https://leetcode.com/u/archakbanerjee_10/
+-  X : https://x.com/archak_b10
