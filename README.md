@@ -8,10 +8,10 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 I love building functional web applications, backend services, and automated tools.
-- 🌱 Continuously expanding my knowledge across full-stack development.
-- ⚡ Fun fact: Code, coffee, and clean architecture are my daily fuel.
+###  About Me
+-  I love building functional web applications, backend services, and automated tools.
+-  Continuously expanding my knowledge across full-stack development.
+-  Fun fact: Code, coffee, and clean architecture are my daily fuel.
 
 ---
 
